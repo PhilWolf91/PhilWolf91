@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PhilWolf91
-- 👀 I’m interested in ... gaming and stuff
-- 🌱 I’m currently learning ... C++
+- 👀 I’m interested in ... MTG, Anime, PC Gaming
+- 🌱 I’m currently learning ... Relearning Vue
 - 💞️ I’m looking to collaborate on ... /shrug
 - 📫 How to reach me ... Here I guess?
 
